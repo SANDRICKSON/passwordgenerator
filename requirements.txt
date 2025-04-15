@@ -1,0 +1,10 @@
+﻿asgiref
+Django
+djangorestframework
+gunicorn
+packaging
+pillow
+psycopg2-binary
+sqlparse
+tzdata
+whitenoise
